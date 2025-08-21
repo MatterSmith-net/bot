@@ -10,7 +10,7 @@ This is a WhatsApp bot built using the Baileys library for group management, inc
 
 <div align="center"> 
   <a href="https://youtube.com/@mr_unique_hacker"> 
-    <img src=https://github.com/MatterSmith-net/mattersmith-net.github.io/blob/main/sources/media/logotype3.jpg" alt="Mattersmith Bot" height="300"> 
+    <img src=https://github.com/MatterSmith-net/mattersmith-net.github.io/sources/media/logotype3.jpg" alt="Mattersmith Bot" height="300"> 
   </a> 
 </div>
 
